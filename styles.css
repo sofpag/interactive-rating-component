@@ -70,7 +70,7 @@ body {
 .score {
     max-width: 13px;
     min-width: 13px;
-    padding: 12px 13px;
+    padding: 18px 13px;
     border-radius: 100%;
     background-color: hsl(213, 19%, 22%);
     font-weight: 700;
